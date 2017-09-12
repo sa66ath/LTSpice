@@ -1,0 +1,18 @@
+***** Discrete Rectifier Electrical Parameters *****
+** Product: 1N4005
+** Package: DO-41
+** General Purpose Rectifier
+****************************************************
+.MODEL 1N4005 D
++ IS=4.5048E-11
++ RS=3.8854E-2
++ IKF=3.6183E-5
++ CJO=2.7751E-11
++ M=0.3333
++ VJ=0.75
++ BV=600
++ IBV=250.00E-6
+****************************************************
+** Creation: Jan.-25-2006
+** Fairchild Semiconductor
+

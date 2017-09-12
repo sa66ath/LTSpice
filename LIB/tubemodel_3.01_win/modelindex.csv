@@ -1,0 +1,253 @@
+"Name"|"Type"|"SPICE model"|"Triode Connection"
+"2A3"|"T"|"2A3"|
+"2A6"|"T"|"75"|
+"3A/167M"|"T"|"3A167M"|
+"3C33"|"twin T"|"3C33"|
+"6A6"|"twin T"|"53"|
+"6AC5-GT"|"T"|"6AC5"|
+"6AF4"|"T"|"6AF4"|
+"6AH4"|"T"|"6AH4"|
+"6AK6"|"P"|"6AK6"|"6AK6T"
+"6AN8 Triode Section"|"T"|"6AN8T"|
+"6AN8 Pentode Section"|"P"|"6AN8P"|"6AN8PT"
+"6AQ5"|"P"|"6V6"|"6V6T"
+"6AR5"|"P"|"6K6"|"6K6T"
+"6AQ8"|"twin T"|"6AQ8"|
+"6AU6"|"P"|"6AU6"|"6AU6T"
+"6AV5-GA"|"B"|"6BQ6"|"6BQ6T"
+"6AV6 Triode Section"|"T"|"12AX7"|
+"6B4-G"|"T"|"2A3"|
+"6BL7-GT"|"twin T"|"6BL7"|
+"6BL8 Triode Section"|"T"|"6BL8T"|
+"6BL8 Pentode Section"|"P"|"6BL8P"|"6BL8PT"
+"6BM8 Triode Section"|"T"|"6BM8T"|
+"6BM8 Pentode Section"|"P"|"6BM8P"|"6BM8PT"
+"6BQ5"|"P"|"6BQ5"|"6BQ5T"
+"6BQ6"|"B"|"6BQ6"|"6BQ6T"
+"6BQ7A"|"twin T"|"6BQ7A"|
+"6BR7"|"P"|"6BR7"|"6BR7T"
+"6BX7-GT"|"twin T"|"6BX7"|
+"6C33C-B"|"T"|"6C33CB"|
+"6C4"|"T"|"6C4"|
+"6C5"|"T"|"6C5"|
+"6C6"|"P"|"6J7"|"6J7T"
+"6C8-G"|"twin T"|"6C8"|
+"6C19P"|"T"|"6C19P"|
+"6CA7"|"P"|"EL34"|"EL34T"
+"6C-A10"|"T"|"6CA10"|
+"6CB5"|"B"|"6CB5"|"6CB5T"
+"6CB6"|"P"|"6CB6"|"6CB6T"
+"6CD6-GA"|"B"|"6CD6"|"6CD6T"
+"6CG7"|"twin T"|"6CG7"|
+"6CK4"|"T"|"6CK4"|
+"6CL6"|"P"|"6CL6"|"6CL6T"
+"6CW5"|"P"|"6CW5"|"6CW5T"
+"6DE7 Unit 1"|"T"|"6DE71"|
+"6DE7 Unit 2"|"T"|"6DE72"|
+"6DQ5"|"B"|"6DQ5"|"6DQ5T"
+"6DQ6-B"|"B"|"6DQ6"|"6DQ6T"
+"6DT8"|"twin T"|"6DT8"|
+"6EJ7"|"P"|"6EJ7"|"6EJ7T"
+"6EM7 Unit 1"|"T"|"6EM71"|
+"6EM7 Unit 2"|"T"|"6EM72"|
+"6EW7 Unit 1"|"T"|"6DE71"|
+"6EW7 Unit 2"|"T"|"6EW72"|
+"6F5"|"T"|"6F5"|
+"6F6, 6F6-G, 6F6-GT"|"P"|"6F6"|"6F6T"
+"6FQ7"|"twin T"|"6FQ7"|
+"6G-A4"|"T"|"6GA4"|
+"6GB5"|"B"|"6GB5"|"6GB5T"
+"6G-B7"|"B"|"25E5"|"25E5T"
+"6G-B8"|"B"|"6GB8"|"6GB8T"
+"6G-B9"|"B"|"6DQ6"|"6DQ6T"
+"6GE5"|"B"|"6DQ6"|"6DQ6T"
+"6GJ5-A"|"B"|"6DQ6"|"6DQ6T"
+"6GT5A"|"B"|"6DQ6"|"6DQ6T"
+"6GV5"|"B"|"6DQ6"|"6DQ6T"
+"6GW6"|"B"|"6DQ6"|"6DQ6T"
+"6GW8 Triode Section"|"T"|"12AX7"|
+"6GW8 Pentode Section"|"P"|"6GW8P"|"6GW8PT"
+"6GY5"|"B"|"6GY5"|"6GY5T"
+"6HE5"|"B"|"6JB5"|"6JB5T"
+"6J5"|"T"|"6SN7"|
+"6J7"|"P"|"6J7"|"6J7T"
+"6JB6-A"|"B"|"6DQ6"|"6DQ6T"
+"6JE6-C"|"B"|"6JE6"|"6JE6T"
+"6JF6"|"B"|"6JG6A"|"6JG6AT"
+"6JG6-A"|"B"|"6JG6A"|"6JG6AT"
+"6JM6-A"|"B"|"6DQ6"|"6DQ6T"
+"6JN6"|"B"|"6DQ6"|"6DQ6T"
+"6JR6"|"B"|"6JR6"|"6JR6T"
+"6JS6-C"|"B"|"6JS6"|"6JS6T"
+"6JT6-A"|"B"|"6DQ6"|"6DQ6T"
+"6JU6"|"B"|"6JR6"|"6JR6T"
+"6K6, 6K6-GT"|"P"|"6K6"|"6K6T"
+"6KD6"|"B"|"6KD6"|"6KD6T"
+"6KG6-A"|"B"|"6LF6"|"6LF6T"
+"6KM6"|"B"|"6KM6"|"6KM6T"
+"6KV6-A"|"B"|"6KV6"|"6KV6T"
+"6L5-G"|"T"|"6C5"|
+"6L6, 6L6-G, 6L6-GC"|"B"|"6L6"|"6L6T"
+"6LB6"|"B"|"6LB6"|"6LB6T"
+"6LF6"|"B"|"6LF6"|"6LF6T"
+"6LG6"|"B"|"6LG6"|"6LG6T"
+"6LQ6"|"B"|"6JE6"|"6JE6T"
+"6ME6"|"B"|"6JE6"|"6JE6T"
+"6MJ6"|"B"|"6JE6"|"6JE6T"
+"6N7"|"twin T"|"53"|
+"6R-A6"|"T"|"6RA6"|
+"6R-B11"|"B"|"6RB11"|"6RB11T"
+"6R-P15"|"P"|"6RP15"|"6RP15T"
+"6S4-A"|"T"|"6S4A"|
+"6SC7"|"twin T"|"6SC7"|
+"6SF5, 6SF5-GT"|"T"|"6F5"|
+"6SH7-GT"|"P"|"6SH7"|"6SH7T"
+"6SJ7-GT"|"P"|"6SJ7"|"6SJ7T"
+"6SL7-GT"|"twin T"|"6SL7"|
+"6SN7-GT"|"twin T"|"6SN7"|
+"6SQ7-GT"|"twin D, T"|"6SQ7"|
+"6U8 Triode Section"|"T"|"6U8T"|
+"6U8 Pentode Section"|"P"|"6U8P"|"6U8PT"
+"6V6, 6V6-G, 6V6-GT"|"B"|"6V6"|"6V6T"
+"6W6-GT"|"B"|"6W6"|"6W6T"
+"7C5"|"B"|"6V6"|"6V6T"
+"7C6"|"twin D, T"|"6SQ7"|
+"7N7"|"twin T"|"6SN7"|
+"12AT7"|"twin T"|"12AT7"|
+"12AU7"|"twin T"|"12AU7, 6C4"|
+"12AX7"|"twin T"|"12AX7"|
+"12AY7"|"twin T"|"12AY7"|
+"12B4-A"|"T"|"12B4A"|
+"12BH7-A"|"twin T"|"12BH7"|
+"12BY7-A"|"P"|"12BY7A"|"12BY7AT"
+"12GN7-A"|"P"|"12GN7A"|"12GN7AT"
+"14AF7"|"twin T"|"14AF7"|
+"20P1"|"B"|"20P1"|"20P1T"
+"21JZ6"|"B"|"6GY5"|"6GY5T"
+"21KA6"|"B"|"6GY5"|"6GY5T"
+"21LG6-A"|"B"|"6LG6"|"6LG6T"
+"25E5"|"B"|"25E5"|"25E5T"
+"26HU5"|"B"|"6KD6"|"6KD6T"
+"26LX6"|"B"|"6KD6"|"6KD6T"
+"30A5"|"P"|"6CW5"|"6CW5T"
+"31LZ6"|"B"|"31LZ6"|"31LZ6T"
+"35C5"|"B"|"35C5"|"35C5T"
+"36MC6"|"B"|"6KD6"|"6KD6T"
+"50C-A10"|"T"|"6CA10"|
+"50H-B26"|"B"|"50HB26"|"50HB26T"
+"62BT"|"B"|"62BT"|"62BTT"
+"10"|"T"|"10, 801"|
+"12A"|"T"|"12A"|
+"27"|"T"|"27"|
+"41"|"P"|"6K6"|"6K6T"
+"41MXP"|"T"|"41MXP"|
+"42"|"P"|"6F6"|"6F6T"
+"45"|"T"|"45"|
+"46 Hi-É  Triode Connection"|"dual-grid"|"46"|
+"50"|"T"|"50"|
+"53"|"twin T"|"53"|
+"56"|"T"|"76"|
+"57"|"P"|"77"|"77T"
+"59 Hi-É  Triode Connection"|"triple-grid"|"59Th"|
+"71A"|"T"|"71A"|
+"75"|"twin D, T"|"75"|
+"76"|"T"|"76"|
+"77"|"P"|"77"|"77T"
+"211"|"T"|"211"|
+"300B"|"T"|"300B"|
+"354V"|"T"|"354V"|
+"0528"|"twin T"|"6414"|
+"801"|"T"|"801, 10"|
+"829B"|"twin B"|"829B"|"829BT"
+"845"|"T"|"845"|
+"955"|"T"|"9002"|
+"1619"|"B"|"1619"|"1619T"
+"5687"|"twin T"|"5687"|
+"5691"|"twin T"|"6SL7"|
+"5692"|"twin T"|"6SN7"|
+"5693"|"P"|"6SJ7"|"6SJ7T"
+"5751"|"twin T"|"5751"|
+"5842"|"T"|"5842"|
+"5881"|"B"|"6L6"|"6L6T"
+"5965"|"twin T"|"5965"|
+"5998"|"twin T"|"5998"|
+"6072"|"twin T"|"6072"|
+"6080"|"twin T"|"6080"|
+"6082"|"twin T"|"6080"|
+"6113"|"twin T"|"6SL7"|
+"6146B"|"B"|"6146B"|"6146BT"
+"6197"|"P"|"6197"|"6197T"
+"6201"|"twin T"|"12AT7"|
+"6240G"|"twin T"|"6240G"|
+"6267"|"P"|"6267"|"6267T"
+"6336A"|"twin T"|"6336"|
+"6350"|"twin T"|"6350"|
+"6414"|"twin T"|"6414"|
+"6550A"|"B"|"6550A"|"6550AT"
+"6900"|"twin T"|"6900"|
+"7119"|"twin T"|"E182CC"|
+"7581, 7581A"|"B"|"6L6"|"6L6T"
+"7591"|"P"|"7591"|"7591T"
+"7868"|"P"|"7591"|"7591T"
+"8045G"|"T"|"8045G"|
+"8417"|"B"|"8417"|"8417T"
+"9002"|"T"|"9002"|
+"AD1"|"T"|"AD1"|
+"CV1052"|"P"|"EL32"|"EL32T"
+"CV1053"|"P"|"EF39"|"EF39T"
+"CV2135"|"P"|"6BR7"|"6BR7T"
+"DA30"|"T"|"DA30"|
+"E180CC"|"twin T"|"E180CC"|
+"E182CC"|"twin T"|"E182CC"|
+"EC86"|"T"|"EC86"|
+"EC94"|"T"|"6AF4"|
+"ECC33"|"twin T"|"ECC33"|
+"ECC35"|"twin T"|"ECC35"|
+"ECC81"|"twin T"|"12AT7"|
+"ECC82"|"twin T"|"12AU7"|
+"ECC83"|"twin T"|"12AX7"|
+"ECC84"|"twin T"|"ECC84"|
+"ECC85"|"twin T"|"6AQ8"|
+"ECC86"|"twin T"|"ECC86"|
+"ECC88"|"twin T"|"ECC88"|
+"ECC802S"|"twin T"|"12AU7"|
+"ECC813"|"twin T"|"ECC86"|
+"ECF82"||"6U8"|
+"ECL82 Triode Section"|"T"|"6BM8T"|
+"ECL82 Pentode Section"|"P"|"6BM8P"|"6BM8PT"
+"ECL86 Triode Section"|"T"|"12AX7"|
+"ECL86 Pentode Section"|"P"|"6GW8P"|"6GW8PT"
+"EF39"|"P"|"EF39"|"EF39T"
+"EF86"|"P"|"6267"|"6267T"
+"EF94"|"P"|"6AU6"|"6AU6T"
+"EF184"|"P"|"6EJ7"|"6EJ7T"
+"EL2"|"P"|"EL32"|"EL32T"
+"EL12"|"P"|"EL12"|"EL12T"
+"EL32"|"P"|"EL32"|"EL32T"
+"EL34"|"P"|"EL34"|"EL34T"
+"EL84"|"P"|"6BQ5"|"6BQ5T"
+"EL95"|"P"|"EL95"|"EL95T"
+"EL156"|"P"|"EL156"|"EL156T"
+"EL500"|"B"|"6GB5"|"6GB5T"
+"EL509"|"B"|"6LF6"|"6LF6T"
+"KT33C"|"B"|"KT33C"|"KT33CT"
+"KT66"|"B"|"KT66"|"KT66T"
+"KT88"|"B"|"KT88"|"KT88T"
+"L63"|"T"|"6SN7"|
+"MH4"|"T"|"MH4"|
+"MH40"|"T"|"MH40"|
+"MH41"|"T"|"MH41"|
+"MHL4"|"T"|"MHL4"|
+"ML4"|"T"|"ML4"|
+"PCF80"||"6BL8P"|
+"PX4"|"T"|"PX4"|
+"PX25"|"T"|"PX25"|
+"PX25A"|"T"|"PX25A"|
+"Pen45"|"P"|"Pen45"|"Pen45T"
+"RE604"|"T"|"RE604"|
+"WE104D"|"T"|"WE104D"|
+"WE262B"|"T"|"WE262B"|
+"WE310A"|"P"|"WE310A"|"WE310AT"
+"WE350B"|"B"|"350B"|"350BT"
+"WE396A"|"twin T"|"WE396A"|
+"WE421A"|"twin T"|"WE421A"|

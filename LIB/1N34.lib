@@ -1,0 +1,4 @@
+*
+* http://www.allaboutcircuits.com/vol_3/chpt_3/14.html
+*
+.MODEL 1N34 D ( is=200p rs=84m n=2.19 tt=144n cjo=4.82p m=0.333 vj=0.75 eg=0.67 bv=60 ibv=15u)
